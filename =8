@@ -1,0 +1,8 @@
++ ajv@6.12.6
+updated 1 package and audited 1607 packages in 8.278s
+
+265 packages are looking for funding
+  run `npm fund` for details
+
+found 13 vulnerabilities (4 moderate, 9 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
